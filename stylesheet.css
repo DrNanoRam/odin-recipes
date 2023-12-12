@@ -1,0 +1,32 @@
+* {
+    font-family: "Times New Roman"
+}
+
+#title {
+    text-align: center;
+}
+
+.categories {
+display: block;
+padding: 8px;
+margin: 4px auto;
+color: black;
+box-sizing: border-box;
+}
+
+.description-summary {
+    background-color: #548CA8;
+    color: white;
+}
+
+.recipes {
+    background-color: #1f5e7e;
+    color: white;
+}
+
+h2,
+p {
+    margin: 0 0 0 0;
+    padding: 0;
+}
+
